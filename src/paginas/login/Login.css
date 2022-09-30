@@ -1,0 +1,17 @@
+.textos1{
+    font-weight: bold !important;
+}
+
+
+.text-decorator-none{
+    text-decoration: none;
+}
+.imagem{
+    
+    background-image: url(https://images8.alphacoders.com/665/thumbbig-665330.webp);
+    background-repeat: no-repeat;
+    width:100vh;
+    min-height: 100vh;
+    background-Size: cover;
+    background-position: center;
+}
