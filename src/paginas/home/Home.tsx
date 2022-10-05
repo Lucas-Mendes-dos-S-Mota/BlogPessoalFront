@@ -1,5 +1,5 @@
 import React from "react";
-import {Typography, Button, Paper, Grid} from "@material-ui/core";
+import {Typography, Button, Grid} from "@material-ui/core";
 import {Box} from "@mui/material";
 import "./Home.css";
 

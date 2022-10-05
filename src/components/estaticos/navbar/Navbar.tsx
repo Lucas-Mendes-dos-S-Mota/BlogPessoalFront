@@ -34,9 +34,9 @@ function Navbar() {
                                 cadastrar tema
                             </Typography>
                         </Box>
-                        <Link to='/logar' className='text-decorator-none '>
+                        <Link to='/login' className='text-decorator-none ' style={{color:'white'}}>
                             <Box mx={1} >
-                                <Typography variant="h6" color="inherit">
+                                <Typography variant="h6" color="inherit" >
                                     logout
                                 </Typography>
                             </Box>
