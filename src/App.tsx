@@ -16,6 +16,7 @@ import ListaPostagem from './components/postagens/listapostagem/ListaPostagem';
 
 function App() {
   return (
+    
     <Router>
       <Navbar />
         <Routes>
