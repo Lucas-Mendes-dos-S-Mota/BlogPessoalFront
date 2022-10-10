@@ -12,7 +12,7 @@ function Navbar() {
 
     function goLogout(){
         setToken('')
-        alert("Usuário delogado")
+        alert("Usuário deslogado")
         navigate('/login')
     }
     return (
@@ -48,7 +48,7 @@ function Navbar() {
                             </Link>
                         </Box>
                         <Box mx={1} className='cursor'>
-                        <Link to='/fomularioTema' style={{color:'white'}} className='text-decorator-none '>
+                        <Link to='/formularioTema' style={{color:'white'}} className='text-decorator-none '>
                             <Typography variant="h6" color="inherit">
                                 cadastrar tema
                             </Typography>
