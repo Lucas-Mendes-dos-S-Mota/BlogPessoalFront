@@ -13,3 +13,7 @@
 .postagens{
     background-color: white ;
 }
+
+.text-decorator-none{
+    text-decoration: none;
+}
